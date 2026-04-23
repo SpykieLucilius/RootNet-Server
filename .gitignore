@@ -10,3 +10,15 @@ smartpot.db-shm
 # Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.egg-info/
+
+# Env
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
