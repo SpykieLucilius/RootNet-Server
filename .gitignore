@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+venv/
+
+# Database
+smartpot.db
+smartpot.db-wal
+smartpot.db-shm
+
+# Python cache
+__pycache__/
+*.pyc
